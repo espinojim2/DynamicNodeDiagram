@@ -1,2 +1,3 @@
 # DynamicNodeDiagram
-A simple canvas node creation with child nodes
+🖱️ Dynamic Node Diagram with Auto-Connecting Arrows
+<h1>sample</h1>
